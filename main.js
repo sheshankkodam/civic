@@ -1,4 +1,4 @@
-console.log("Hello");
+console.log("civic started");
 
 var videoshow = require('videoshow')
 

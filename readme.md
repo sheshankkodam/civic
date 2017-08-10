@@ -5,5 +5,5 @@
 - Install ffmpeg `brew install ffmpeg`
 
 #### Steps to run 
-- node main.js 
+- To executr application run `node main.js` 
 - Check output file `output` directory 
